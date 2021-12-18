@@ -1,3 +1,3 @@
 # mergeconflicts
 
-I am adding code to the client part of readme
+I am adding stuff from the REMOTE version of REZADME
